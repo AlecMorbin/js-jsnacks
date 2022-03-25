@@ -1,4 +1,4 @@
-let randomPC = Math.floor( ( Math.random() * 10 ) );
+let randomPC = Math.floor( ( Math.random() * 11 ) );
 console.log("debug PC "+randomPC);
 let input;
 let flag = false;
