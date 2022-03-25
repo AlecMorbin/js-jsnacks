@@ -12,10 +12,5 @@ for (let i = 0; i < 6; i++) {
     }
 }
 
-let stampa ="";
-for (let i = 0; i < array.length; i++) {
-     stampa += ","+array[i];
-}
-
-alert(stampa);
+alert(array);
 console.log(array);
